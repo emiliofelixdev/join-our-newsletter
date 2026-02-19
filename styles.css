@@ -117,3 +117,39 @@ body {
   color: #6c727f;
   text-align: center;
 }
+
+@media (max-width: 640px) {
+  body {
+    min-height: auto;
+    padding-top: 5rem;
+    padding-bottom: 4rem;
+  }
+
+  .form-card {
+    max-width: 50%;
+  }
+
+  .join-newsletter h1 {
+    font-size: 1.5rem;
+  }
+
+  .join-newsletter p {
+    font-size: 0.75rem;
+  }
+
+  .form-card input {
+    font-size: 0.6rem;
+  }
+
+  .form-card button {
+    font-size: 0.6rem;
+  }
+
+  .confidential {
+    font-size: 0.43rem;
+  }
+
+  .author-info {
+    font-size: 0.35rem;
+  }
+}
