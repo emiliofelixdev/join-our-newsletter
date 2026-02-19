@@ -36,8 +36,8 @@
 
 ## Overview
 
-![Desktop Preview](assets\desktop-preview.png)
-![Mobile Preview](assets\mobile-preview.png)
+![Desktop Preview](./assets/desktop-preview.png)
+![Mobile Preview](./assets/mobile-preview.png)
 
 A mobile-first, responsive newsletter subscription component. This project marks my transition from a browser-based learning sandbox to a professional local development environment (VS Code). It demonstrates hands-on experience with local project architecture, accurate asset linking, and production-ready deployment preparation.
 
